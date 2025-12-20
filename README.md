@@ -15,9 +15,9 @@
 ---
 
 ## 📌 Projects
-- 🎮 Game FPS: basic game logic and performance handling
 - 📊 Data analysis projects with visualization and insights
-- 🤖 Small intelligent systems based on data
+- 🤖 Attendance-Management-System
+
 
 ---
 
