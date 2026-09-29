@@ -1,6 +1,5 @@
 ## 👋 Hi, I'm Abdelilah
 
-🎓 Student in Computer Science  
 📊 Interested in Data Analysis and Artificial Intelligence  
 💡 Passionate about building practical and intelligent software solutions
 
